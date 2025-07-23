@@ -24,7 +24,7 @@ export default function Page() {
           
           <div className="font-mono text-lg lg:text-xl text-muted-foreground leading-relaxed max-w-2xl mx-auto">
             <p>if you thought this was cool ...</p>
-            <p>we'd love to talk!</p>
+            <p>we&apos;d love to talk!</p>
           </div>
         </div>
 
