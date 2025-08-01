@@ -1,0 +1,16 @@
+{
+  "$schema": "https://schema.railpack.com",
+  "steps": {
+    "install": {
+      "variables": {
+        "MISE_NODE_VERIFY": "false",
+        "MISE_PYTHON_VERIFY": "false"
+      }
+    },
+    "build": {
+      "variables": {
+        "MISE_NODE_VERIFY": "false"
+      }
+    }
+  }
+}
